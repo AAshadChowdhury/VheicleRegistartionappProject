@@ -1,0 +1,5 @@
+﻿TS 29 AE 3698,Karim Khan,Chittagong,BAJAJ,AUTO,DIESEL,1500
+TS 29 AE 3699,Rahim Ullah,Chittagong,TOYOTA,Manual,Octane,1800
+TS 29 AE 3700,Niaz Ali,Chittagong,BAJAJ,AUTO,DIESEL,1500
+TS 30 AS 5000,Ashad Bin Dil,Cumilla,NISHAM,AUTO,PETROL,1200
+TS 35 BS 1600,Talha Chowdhury,Dhaka,PULSER,AUTO,DIESEL,18000
